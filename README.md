@@ -1,6 +1,6 @@
 # AD39
-[![Tests](https://code.harvard.edu/CS107/team39/actions/workflows/test.yml/badge.svg?branch=master)](https://code.harvard.edu/CS107/team39/actions/workflows/test.yml)
-[![Coverage](https://code.harvard.edu/CS107/team39/actions/workflows/coverage.yml/badge.svg?branch=master)](https://code.harvard.edu/CS107/team39/actions/workflows/coverage.yml)
+[![Tests](https://github.com/ayzo279/ad39_library/actions/workflows/test.yml/badge.svg)](https://github.com/ayzo279/ad39_library/actions/workflows/test.yml)
+[![Coverage](https://github.com/ayzo279/ad39_library/actions/workflows/coverage.yml/badge.svg)](https://github.com/ayzo279/ad39_library/actions/workflows/coverage.yml)
 
 This package provides a python implementation for automatic differentiation (AD).
 The package supports both forward mode (FM) as well as reverse mode (RM) AD. To this end, the library supports differentiation 
